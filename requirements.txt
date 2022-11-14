@@ -1,0 +1,2 @@
+pyserial>=3.5
+pynrfjprog>=10.15.2
